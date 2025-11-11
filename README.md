@@ -8,8 +8,7 @@
 
 ## ✨ Features
 
-- **🤖 AI-Powered Chat**: Integrated with Claude 3.5, GPT-4, and Mistral via OpenRouter
-- **📝 Smart Note-Taking**: Capture and synthesize ideas with AI assistance
+- **🤖 AI-Powered Chat**: Top 5 free open-source models (Llama 3.1 70B, Qwen2.5 72B, Mixtral 8x22B, DeepSeek-V2, Phi-3) - auto-selects best model for each task- **📝 Smart Note-Taking**: Capture and synthesize ideas with AI assistance
 - **💡 Idea Synthesis**: Transform scattered thoughts into structured notes
 - **🎯 Goal Tracking**: Set and monitor personal/professional goals
 - **🌙 Dark Mode UI**: Minimalist glassmorphic design (#0D0D0D)
@@ -183,8 +182,8 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 🙏 Acknowledgments
 
-- Inspired by [Kortex](https://kortex.co) by Dan Koe
-- Built with [Vercel AI SDK](https://sdk.vercel.ai)
+- Inspired by the [Kortex](https://kortex.co) note-taking system
+-  Built with [Vercel AI SDK](https://sdk.vercel.ai)
 - UI components from [shadcn/ui](https://ui.shadcn.com)
 
 ---
